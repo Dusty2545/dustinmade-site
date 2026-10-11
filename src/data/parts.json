@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "example-dash-knob",
+    "sample": true,
+    "name": "Example: Dash Control Knob",
+    "make": "Hudson",
+    "model": "[Model]",
+    "years": "[Years]",
+    "category": "Knobs & handles",
+    "oem": "[OEM part #]",
+    "discontinued": "[Year]",
+    "badges": ["print-ready", "fit-tested"],
+    "filePrice": null,
+    "printPrice": null,
+    "materials": ["PETG", "ASA"],
+    "summary": "Replace this sample with a real part in src/data/parts.json.",
+    "notes": "Dustin's Notes go here: install tips, what differs from the original, and finishing advice.",
+    "specs": {
+      "Material": "[Recommended material]",
+      "Dimensions": "[W × H × D mm]",
+      "Print time": "[hh:mm]",
+      "Layer height": "[0.12–0.2 mm]",
+      "Infill": "[%]",
+      "Supports": "[Yes / No]"
+    },
+    "fitment": ["[Year Make Model]"],
+    "featured": true
+  },
+  {
+    "slug": "example-vent-louver",
+    "sample": true,
+    "name": "Example: Vent Louver",
+    "make": "Ford",
+    "model": "[Model]",
+    "years": "[Years]",
+    "category": "Interior trim",
+    "oem": "[OEM part #]",
+    "discontinued": "[Year]",
+    "badges": ["print-ready"],
+    "filePrice": null,
+    "printPrice": null,
+    "materials": ["ASA"],
+    "summary": "Replace this sample with a real part in src/data/parts.json.",
+    "notes": "Dustin's Notes go here.",
+    "specs": {
+      "Material": "[Recommended material]",
+      "Dimensions": "[W × H × D mm]",
+      "Print time": "[hh:mm]",
+      "Layer height": "[mm]",
+      "Infill": "[%]",
+      "Supports": "[Yes / No]"
+    },
+    "fitment": ["[Year Make Model]"],
+    "featured": true
+  },
+  {
+    "slug": "example-trim-clip",
+    "sample": true,
+    "name": "Example: Trim Retaining Clip",
+    "make": "Chevrolet",
+    "model": "[Model]",
+    "years": "[Years]",
+    "category": "Clips & fasteners",
+    "oem": "[OEM part #]",
+    "discontinued": "[Year]",
+    "badges": ["new"],
+    "filePrice": null,
+    "printPrice": null,
+    "materials": ["Nylon"],
+    "summary": "Replace this sample with a real part in src/data/parts.json.",
+    "notes": "Dustin's Notes go here.",
+    "specs": {
+      "Material": "[Recommended material]",
+      "Dimensions": "[W × H × D mm]",
+      "Print time": "[hh:mm]",
+      "Layer height": "[mm]",
+      "Infill": "[%]",
+      "Supports": "[Yes / No]"
+    },
+    "fitment": ["[Year Make Model]"],
+    "featured": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "dustinmade-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DustinMade — 3D-printed reproductions of discontinued classic-car parts.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && npx --yes serve dist"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
